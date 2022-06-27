@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "LazyLoad images",
+        "description": "This plugin add lazyLoading to your images in content "
+    }
+}
